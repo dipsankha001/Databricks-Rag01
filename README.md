@@ -1,6 +1,6 @@
 # Databricks-Rag01
 Rag pipeline in databricks
-taking a pdf then split into section then split into  long text splitting it into pieces
+/n taking a pdf then split into section then split into  long text splitting it into pieces
 creating embeddings for each piece and storing those
 when someone asks a question, create an embedding for the question
 find the most similar embeddings of sections
